@@ -1,1 +1,0 @@
-# finance-backend-zorvyn
